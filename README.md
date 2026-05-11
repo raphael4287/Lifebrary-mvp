@@ -4,7 +4,7 @@
 
 ![Lifebrary Hero](https://img.shields.io/badge/version-1.0.0--MVP-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Status](https://img.shields.io/badge/status-Active%20Development-orange)
 
-## 📖 願景與使命
+##  願景與使命
 
 Lifebrary 始於一個簡單卻深刻的想法：**想要聽見家人的故事**。
 
